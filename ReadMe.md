@@ -71,6 +71,3 @@ This project defines a class `PhoneCall` as an Abstract Data Type (ADT) and demo
 4. **View the Results:**
 
    The program will read the phone calls from `MyCalls.dat`, compare them with the specified number, and display the total amount spent, the number of calls made, and the details of the longest call to the specified number.
-
-## Example
-
