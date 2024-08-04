@@ -42,6 +42,18 @@ This project defines a class `PhoneCall` as an Abstract Data Type (ADT) and demo
 - `main.cpp`: Application program demonstrating the usage of the `PhoneCall` class.
 - `MyCalls.dat`: Data file containing the phone calls made during one month.
 
+## MyCalls.dat file content
+
+    0123452347 12 3.50
+    0337698210 9 3.15
+    0214672341 2 1.75
+    0337698210 15 3.15
+    0442389132 8 1.75
+    0232189726 5 3.50
+    0124395623 6 3.50
+    0337698210 2 3.15
+    0337698210 5 3.15
+
 ## Usage
 
 1. **Compile the Program:**
